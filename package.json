@@ -1,0 +1,18 @@
+{
+  "name": "ornament-analyzer",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Azat Zagitov",
+  "license": "ISC",
+  "dependencies": {
+    "jscodeshift": "^0.12.0"
+  },
+  "devDependencies": {
+    "@types/jscodeshift": "^0.11.0",
+    "@types/node": "^15.3.0"
+  }
+}
